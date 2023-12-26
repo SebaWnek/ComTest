@@ -1,0 +1,2 @@
+../Core/Src/dynamic_memory.c:21:10:allocate	24	static
+../Core/Src/dynamic_memory.c:40:6:isEnoughSpaceLeft	16	static

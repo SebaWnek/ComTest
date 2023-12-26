@@ -1,0 +1,7 @@
+../Core/Src/timers.c:30:6:invokeTimerFunctions	24	static
+../Core/Src/timers.c:37:6:timerStart	16	static
+../Core/Src/timers.c:41:6:timerStop	16	static
+../Core/Src/timers.c:46:6:configureTimer	24	static
+../Core/Src/timers.c:66:6:calculateFrequency	48	static
+../Core/Src/timers.c:90:6:timersInterruptHandler	24	static
+../Core/Src/timers.c:101:6:deleteTimer	24	static

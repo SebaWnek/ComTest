@@ -1,0 +1,4 @@
+../Core/Src/led_functions.c:15:6:led_green_control	24	static,ignoring_inline_asm
+../Core/Src/led_functions.c:35:6:led_red_control	24	static,ignoring_inline_asm
+../Core/Src/led_functions.c:54:6:led_yellow_control	24	static,ignoring_inline_asm
+../Core/Src/led_functions.c:74:6:blink	24	static
